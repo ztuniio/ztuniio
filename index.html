@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bringo | We Bring It Fast!</title>
+    <meta
+      name="description"
+      content="Bringo is a fast food delivery service in Hyderabad & Jamshoro, Pakistan. Order in seconds via WhatsApp."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a href="#home" class="brand" aria-label="Bringo home">
+          <span class="brand-logo" aria-hidden="true">GO</span>
+          <span class="brand-name">BRINGO</span>
+        </a>
+
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">
+          <span></span><span></span><span></span>
+        </button>
+
+        <nav id="main-nav" class="nav-links" aria-label="Main menu">
+          <a href="#services">Services</a>
+          <a href="#coverage">Coverage</a>
+          <a href="#about">About</a>
+          <a href="#contact">Contact</a>
+          <a class="btn btn-primary" href="https://wa.me/923097569951" target="_blank" rel="noreferrer">Order Now</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="home">
+      <section class="hero">
+        <div class="container hero-grid">
+          <div>
+            <p class="tag">Food delivery service · Always open</p>
+            <h1>We Bring It Fast! <span>🛵</span></h1>
+            <p class="subtitle">
+              Bringo delivers your favorite meals quickly across Hyderabad and Jamshoro.
+              Fast pickup, careful delivery, and instant support on WhatsApp.
+            </p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="https://wa.me/923097569951" target="_blank" rel="noreferrer">Chat on WhatsApp</a>
+              <a class="btn btn-light" href="tel:+923097569951">Call +92 309 7569951</a>
+            </div>
+            <ul class="quick-info">
+              <li><strong>17</strong> Likes</li>
+              <li><strong>26</strong> Followers</li>
+              <li><strong>Languages:</strong> English, Urdu, Sindhi</li>
+            </ul>
+          </div>
+          <div class="hero-card">
+            <h2>Quick Order</h2>
+            <form id="order-form" class="order-form">
+              <label>
+                Your name
+                <input name="name" type="text" required />
+              </label>
+              <label>
+                Phone number
+                <input name="phone" type="tel" placeholder="03xx xxxxxxx" required />
+              </label>
+              <label>
+                Delivery area
+                <select name="area" required>
+                  <option value="">Select area</option>
+                  <option>Hyderabad</option>
+                  <option>Jamshoro</option>
+                  <option>Other nearby area</option>
+                </select>
+              </label>
+              <label>
+                What should we deliver?
+                <textarea name="items" rows="3" required></textarea>
+              </label>
+              <button class="btn btn-primary" type="submit">Send to WhatsApp</button>
+              <p id="form-feedback" class="form-feedback" role="status" aria-live="polite"></p>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <section id="services" class="section">
+        <div class="container">
+          <h2>Our Services</h2>
+          <div class="cards">
+            <article class="card">
+              <h3>Restaurant Delivery</h3>
+              <p>From local favorites to trending spots, we pick up and deliver quickly.</p>
+            </article>
+            <article class="card">
+              <h3>Scheduled Orders</h3>
+              <p>Plan your meal times in advance with convenient scheduled deliveries.</p>
+            </article>
+            <article class="card">
+              <h3>Live Customer Support</h3>
+              <p>Need updates or help? Reach out anytime through phone or WhatsApp.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="coverage" class="section alt">
+        <div class="container split">
+          <div>
+            <h2>Delivery Coverage</h2>
+            <p>We currently serve:</p>
+            <ul>
+              <li>Hyderabad, Pakistan</li>
+              <li>Jamshoro</li>
+              <li>Nearby zones on request</li>
+            </ul>
+            <p><strong>Pricing:</strong> $$ (affordable rates)</p>
+          </div>
+          <div class="contact-box">
+            <h3>Contact Info</h3>
+            <p><strong>Phone:</strong> <a href="tel:+923097569951">+92 309 7569951</a></p>
+            <p><strong>WhatsApp:</strong> <a href="https://wa.me/923097569951">+92 309 7569951</a></p>
+            <p><strong>Business:</strong> Always Open</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section">
+        <div class="container">
+          <h2>About Bringo</h2>
+          <p>
+            Bringo is a local food delivery brand focused on speed, reliability, and friendly service.
+            Our mission is simple: save your time and deliver your meals fresh.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer id="contact" class="site-footer">
+      <div class="container footer-content">
+        <p>© <span id="year"></span> Bringo. We Bring It Fast! 🛵</p>
+        <a class="btn btn-light" href="https://wa.me/923097569951" target="_blank" rel="noreferrer">Start Order</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
