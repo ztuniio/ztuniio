@@ -1,1 +1,1 @@
-![Particle Simulation](./particles.svg)
+![Particle Simulation](./particles2.svg)
