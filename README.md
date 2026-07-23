@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Zaid Hussain</h1>
-<h3 align="center">"Wellcome to my Github Profile, I'm a passionate Web developer."</h3>
+<h3 align="center">"Wellcome to my Github Profile, I'm a passionate AI developer."</h3>
 
 <img align="right" class="profile-img" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztuniio&label=Profile%20views&color=0e75b6&style=flat" alt="ztuniio" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ztuniio" target="blank"><img src="https://img.shields.io/twitter/follow/ztuniio?logo=twitter&style=for-the-badge" alt="ztuniio" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **AGI**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@zaiid.t/videos](https://www.youtube.com/@zaiid.t/videos)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/@ztuniio/videos](https://youtube.com/@ztuniio?si=FfdLV1w9BEfKkn6y)
 
-- 💬 Ask me about **HTML, CSS and Typescript**
+- 💬 Ask me about **Artificial intelligence (AI)**
 
 - 📫 How to reach me **https://linktr.ee/ztuniio**
 
