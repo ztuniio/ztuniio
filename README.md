@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztuniio&label=Profile%20views&color=0e75b6&style=flat" alt="ztuniio" /> </p>
 
-- 🤖 Currently building AI applications and exploring AGI
+🤖 Currently building AI applications and exploring AGI
 
-- 🚀 Interested in Artificial Intelligence, Machine Learning, LLMs, and Agentic AI
+🚀 Interested in Artificial Intelligence, Machine Learning, LLMs, and Agentic AI
 
-- 🌱 Continuously learning through hands-on projects and open-source contributions
+🌱 Continuously learning through hands-on projects and open-source contributions
 
-- 📫 Connect with me: **https://linktr.ee/ztuniio**
+📫 Connect with me: **https://linktr.ee/ztuniio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
