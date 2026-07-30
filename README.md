@@ -12,8 +12,6 @@
 
 🌱 Continuously learning through hands-on projects and open-source contributions
 
-📫 Connect with me: **https://linktr.ee/ztuniio**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/ztuniio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" alt="ztuniio" height="30" width="40" /></a>
