@@ -73,3 +73,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ztuniio&" alt="ztuniio" /></p>
+
+## Resources
+
+- [Facebook CV Design Booking Agent Plan](./FACEBOOK_CV_AGENT_PLAN.md)
