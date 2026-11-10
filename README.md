@@ -26,7 +26,7 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [**HireSignal**](https://github.com/ztuniio/hiresignal) · [Live demo](https://my-portfolio-ztqu.vercel.app/) | AI resume scanner and CV-writing service for job seekers in Pakistan and the Gulf | React, TypeScript, Gemini API, Express |
+| [**HireSignal**](https://github.com/ztuniio/my-portfolio) · [Live demo](https://my-portfolio-ztqu.vercel.app/) | AI resume scanner and CV-writing service for job seekers in Pakistan and the Gulf | React, TypeScript, Gemini API, Express |
 | [**LinkedIn Profile Optimizer**](https://github.com/ztuniio/linkedin-profile-optimizer) | A Claude skill that rewrites LinkedIn profiles into paste-ready, keyword-aware copy | Claude Skills, Prompt Engineering |
 | [**GymFlow**](https://github.com/ztuniio/GymFlow) | Android workout tracker with progress charts, fitness calculators, and streaks | Kotlin, Jetpack Compose, Room |
 | [**ChaiGPT Cafe**](https://github.com/ztuniio/chaigpt) | Website for a cafe and restaurant in Jamshoro, with menu tabs and a photo gallery | HTML, CSS, JavaScript |
